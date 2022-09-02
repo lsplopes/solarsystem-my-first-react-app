@@ -1,16 +1,14 @@
-# 🚧 README em construção 🚧
+# WELCOME!!
 
-<!-- Olá, Tryber!
+This was my first react project!
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+It was kind of my "Hello Word" using React.
 
-É essencial que você preencha esse documento por conta própria, ok?
+It was pretty simple, but it was a project that I've made in the course I was taking.
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+Notes:
+- All codes inside the Components folder and also the App, Index and CSS were developed by me.
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+- The ESlint, images and data were provided by Trybe (the school witch I'm studying).
 
--->
+Thanks a lot for taking a look! you're very welcome to spy on all my others repositories!
