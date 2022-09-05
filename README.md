@@ -2,7 +2,7 @@
 
 This was my first react project!
 
-It was kind of my "Hello Word" using React.
+It was kind of my "Hello World" using React.
 
 It was pretty simple, but it was a project that I've made in the course I was taking.
 
