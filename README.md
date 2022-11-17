@@ -1,4 +1,20 @@
-# WELCOME!!
+
+# PT=BR: BEM-VINDO!!
+
+Este foi o meu primeiro projeto de React!
+
+Foi uma espécie de "Hello World" usando React.
+
+Foi bem simples, mas foi um projeto que fiz no curso da Trybe.
+
+Notas:
+- Todos os códigos dentro da pasta Components e também App, Index e CSS foram desenvolvidos por mim.
+
+- O ESlint, imagens e dados foram fornecidos pela Trybe (a escola que estou estudando).
+
+Muito obrigado por dar uma olhada! você é muito bem-vindo para visitar todos os meus outros repositórios!
+
+# EN-US: WELCOME!!
 
 This was my first react project!
 
